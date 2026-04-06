@@ -1,0 +1,16 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+uploads/
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# .idea folder for PyCharm
+.idea/
+
+# Conda environment files
+*.conda
+*.env
