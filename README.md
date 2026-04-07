@@ -1,4 +1,6 @@
 # 文档智能问答系统 (RAG) 
+## 项目展示
+<img width="2510" height="1515" alt="image" src="https://github.com/user-attachments/assets/20ccd033-ce37-453e-b5f3-11c3f0c8430e" />
 
 ## 项目简介
 本项目基于大语言模型（LLM）构建文档智能问答系统，支持用户上传 PDF 文档后进行内容检索与问答。系统采用 **RAG（检索增强生成）** 方案提升回答准确性，并通过 **Agent 工作流** 实现多步骤任务处理，用于学习资料辅助与知识整理场景。
