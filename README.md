@@ -45,6 +45,10 @@ flowchart TD
     E --> F[LLM生成回答]
     F --> G[返回结构化答案]
 ```
+## 产品架构
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7f07c640-3aa5-4b9b-96ae-5cef9e1f08d3" />
+
 ## 技术栈
 ```mermaid
 - Python
@@ -69,7 +73,9 @@ rag-project/
 ```
 
 ## 页面展示
-![img.png](img.png)
+
+<img width="2510" height="1515" alt="屏幕截图 2026-04-07 134814" src="https://github.com/user-attachments/assets/2086a45b-69be-423b-ad66-8c48e7ddcb93" />
+
 
 ## 安装与运行
 
