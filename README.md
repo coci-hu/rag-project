@@ -1,10 +1,5 @@
-# 文档智能问答系统 (RAG) 
-## 项目展示
-<img width="2510" height="1515" alt="image" src="https://github.com/user-attachments/assets/20ccd033-ce37-453e-b5f3-11c3f0c8430e" />
+# 文档智能问答系统 (RAG) - 文档智能问答助手
 
-
-
-# 📄 DocMind AI - 文档智能问答助手
 
 ## 🧠 项目简介（产品视角）
 DocMind AI 是一款面向学习与知识管理场景的文档智能助手，用户只需上传 PDF，即可快速获取文档核心信息，并通过对话形式进行深度问答。
@@ -72,8 +67,10 @@ rag-project/
 ├─ templates/ # 前端模板
 └─ .gitignore
 ```
+
 ## 页面展示
 ![img.png](img.png)
+
 ## 安装与运行
 
 1. 克隆仓库
