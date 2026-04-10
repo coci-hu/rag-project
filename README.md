@@ -1,4 +1,6 @@
 # 文档智能问答系统 (RAG) 
+## 项目展示
+<img width="2510" height="1515" alt="image" src="https://github.com/user-attachments/assets/20ccd033-ce37-453e-b5f3-11c3f0c8430e" />
 
 
 
